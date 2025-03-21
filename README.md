@@ -1,8 +1,8 @@
 # Hi 👋, I'm Vinoth Kumar T S
 
-## A passionate Web and Mobile App Developer from [Your Country]
+## A passionate Web and Mobile App Developer from India 
 
-- 🔭 I’m currently working on **[Your Project Name]**
+- 🔭 I’m currently working on Mobile App Devolopment And Data Engineering.
 - 🌱 I’m currently learning **React, AWS, and Flutter**
 - 👯 I’m looking to collaborate on **Full Stack Development**
 - 🗂 All my projects are available at vinothkumarts.com
