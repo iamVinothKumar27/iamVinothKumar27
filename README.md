@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Vinoth Kumar T S
 
-<!--
-**iamVinothKumar27/iamVinothKumar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A passionate Web and Mobile App Developer from [Your Country]
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **[Your Project Name]**
+- 🌱 I’m currently learning **React, AWS, and Flutter**
+- 👯 I’m looking to collaborate on **Full Stack Development**
+- 🗂 All my projects are available at vinothkumarts.com
+- 💬 Ask me about **Flutter, JavaScript, and Web Development**
+- 📫 How to reach me: t.s.vinoth27@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)
+
+### Languages and Tools:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**GitHub Stats:**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
